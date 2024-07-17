@@ -3,8 +3,8 @@
 Technical Skills: R, R Studio, SAS, Python, Excel, Microsoft Office Apps, Power BI (beginner)
 
 ### Education
-Masters (_WILL BE IN PROGRESS_)
-Bachelor of Science, Statistics | Iowa State University, Ames, IA (_May 24_)
+- Masters (_WILL BE IN PROGRESS_)
+- Bachelor of Science, Statistics | Iowa State University, Ames, IA (_May 24_)
 
 Relevant Coursework: Computer Processing of Scientific Data, Intermediate Statistical Concepts and Methods, Data Acquisition and Exploratory Analysis, Applied Data Modeling and Predictive Analysis, Intro to: Categorical Analysis, Multivariate Data Analysis, Statistical Computing, Data Science
 
