@@ -1,5 +1,7 @@
 # Title
 
+Technical Skills: R, R Studio, SAS, Python, Excel, Microsoft Office Apps, Power BI (beginner)
+
 ### Education
 Bachelor of Science, Statistics at Iowa State Univeristy '24
 
