@@ -2,7 +2,9 @@
 
 ### Education
 Bachelor of Science, Statistics at Iowa State Univeristy '24
-Relevant Coursework:
+
+Relevant Coursework: Computer Processing of Scientific Data, Intermediate Statistical Concepts and Methods, Data Acquisition and Exploratory Analysis, Applied Data Modeling and Predictive Analysis, Intro to: Categorical Analysis, Multivariate Data Analysis, Statistical Computing, Data Science
+
 Involvement: Science Bound Pre-Collegiate and Collegiate Program
               Awarded Science Bound Scholarship
 
