@@ -12,7 +12,7 @@
 - asdfg
 - asdfghjk
 
-### Course Projects
+## Course Projects
 - Class 1
   - Project
  
